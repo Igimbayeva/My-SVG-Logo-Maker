@@ -1,1 +1,1 @@
-# My-SVG-Logo-Maker
+# SVG-Logo-Maker-Pro
