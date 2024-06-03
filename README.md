@@ -76,7 +76,7 @@ npm test
 Tests include verifying shape rendering, SVG generation, text handling, and error conditions.
 
 ## Video Walkthrough
-[Watch the video walkthrough here](https://example.com/video-walkthrough)
+[Watch the video walkthrough here](<iframe src="https://drive.google.com/file/d/1AfDEuh7EKty8zfQiHrpIV7suob1ruCZT/preview" width="640" height="480"></iframe>)
 
 ## License
 This project is licensed under the MIT License.  
